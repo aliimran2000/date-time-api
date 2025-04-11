@@ -1,0 +1,8 @@
+vendor/
+go.sum
+.vscode/
+
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.tfplan
